@@ -1,6 +1,6 @@
 # Two-Layer-Neural-Networks-CIFAR10-Classification
 
-This project, done for the UC Berkeley course (CS189: Machine Learning), aims to provide an in-depth understanding of the underlying principles of neural networks.
+This project, done for the UC Berkeley course, aims to provide an in-depth understanding of the underlying principles of neural networks.
 
 # Project decription
 
@@ -15,7 +15,7 @@ Before running the code in this directory, please create a new `conda`
 environment by running:
 ```sh
 bash conda_create.sh
-conda activate cs189
+conda activate 
 ```
 
 ## Disclaimer

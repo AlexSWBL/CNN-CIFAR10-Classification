@@ -2,7 +2,6 @@
 Author: Sophia Sanborn
 Institution: UC Berkeley
 Date: Spring 2020
-Course: CS189/289A
 Website: github.com/sophiaas
 """
 

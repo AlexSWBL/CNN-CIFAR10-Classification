@@ -18,3 +18,7 @@ bash conda_create.sh
 conda activate cs189
 ```
 
+## Disclaimer
+
+Please do not use them directly for submitting course assignments or exams in order to maintain academic integrity.
+
